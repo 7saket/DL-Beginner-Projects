@@ -1,1 +1,1 @@
-# DL-Mini-Projects
+# DL-Beginner-Projects
